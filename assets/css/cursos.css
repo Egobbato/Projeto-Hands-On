@@ -1,0 +1,55 @@
+section{
+margin:100px 0 0 50px;
+}
+
+
+
+.cursos h1{
+    color:#FF4081;
+    font-weight: 700;
+    font-size: 60px;
+    text-transform: capitalize;
+    margin: 0 auto;
+} 
+.todoscursos > p{
+    font-weight: 400;
+    font-size: 20px;
+    color:#555555;
+    margin:0 auto;
+
+}
+.conteiner{
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+    margin-top: 70px;
+    
+}
+
+.botao{
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 15px;
+    background: #419488;
+    border-radius: 62px;
+    color:#FFFFFF;
+    margin-left: 20px;
+    
+}
+h2{
+    color: #FF4081;
+    font-weight: 700;
+    font-size: 35px;
+    
+
+
+}
+p{
+    
+    font-weight: 300;
+    font-size: 18px;
+    width: 600px;
+    padding-left: 20px;
+}
+  
+
