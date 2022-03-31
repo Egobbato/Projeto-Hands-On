@@ -29,14 +29,19 @@ form div {
 }
 
 form input[type=text],
-form input[type=email],
-form textarea {
+form input[type=email],form textarea
+    {
     width: 100%;
     border: 1px solid #686868;
     outline: 0;
     border-radius: 7px;
     padding: 10px 21px;
     box-sizing: border-box;
+}
+
+form textarea {
+    height: 150px;
+
 }
 
 form input[type=submit] {
