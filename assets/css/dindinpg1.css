@@ -43,7 +43,7 @@ section a {
     flex-wrap: wrap;
     background-color: #F6F6F6;
     margin-top: 50px;
-    width: 0 auto;
+    width: auto;
     height: 430px;
 
 
@@ -183,7 +183,7 @@ section a {
     margin-bottom: 100px;
 }
 
-.conteudo img {
+.imagem {
     width: 319px;
     height: 193px;
     background: #C4C4C4;
