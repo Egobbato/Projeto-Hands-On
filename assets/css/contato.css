@@ -3,7 +3,7 @@ main {
 }
 
 form {
-    background: url(/assets/img/ilustra-contato.png) 80% 50% no-repeat;
+    background: url(../img/ilustra-contato.png) 80% 50% no-repeat;
     display: block;
     box-sizing: border-box;
     width: 100%;
@@ -29,8 +29,8 @@ form div {
 }
 
 form input[type=text],
-form input[type=email],form textarea
-    {
+form input[type=email],
+form textarea {
     width: 100%;
     border: 1px solid #686868;
     outline: 0;

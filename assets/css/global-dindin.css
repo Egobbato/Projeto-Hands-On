@@ -10,7 +10,7 @@ header {
 }
 
 header h2 a {
-    background: url(/assets/img/cabeçalho.png) 0 0 no-repeat;
+    background: url(../img/cabeçalho.png) 0 0 no-repeat;
     display: block;
     color: transparent;
     width: 244px;
@@ -54,7 +54,7 @@ footer {
 }
 
 footer h2 a {
-    background: url(/assets/img/logo-footer.png) 0 0 no-repeat;
+    background: url(../img/logo-footer.png) 0 0 no-repeat;
     color: transparent;
     display: block;
     width: 312px;
@@ -108,7 +108,7 @@ div .links-anexos {
 @media only screen and (max-width: 769px) {
 
     .info {
-        width: 720;
+        width: 720px;
     }
 
 }
