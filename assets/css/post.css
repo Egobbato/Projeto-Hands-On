@@ -1,0 +1,105 @@
+.principal{
+    
+    display: block;
+    width: 1032px;
+    height: 1061px;
+    margin:0 auto;
+    text-align: center;
+    
+    
+}
+.principal h1{
+    padding-top: 50px;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 57px;
+    color: #FF4081;
+    margin: 0;
+}
+.data{
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    color: #9D9D9D;
+    margin: 12px 0 74px 0;
+    text-align: center;
+}
+
+.imagem{
+    Width:1032px;
+    Height:465px;
+    background: #C4C4C4;
+}
+section p{
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+    text-align: justify; 
+    
+}
+h2{
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 50px;
+    color: #009688;
+    margin-top: 80px;
+    text-align: start;
+
+}
+article{
+    margin-top: 800px;
+    background: #F7F7F7;
+    
+}
+h3{
+    font-weight: 500;
+    font-size: 50px;
+    color: #FF4081;
+    text-align: center;
+}
+.todos-cursos{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+img{
+
+       Width:288px;
+       Height:279.06px;
+       
+       
+       
+       
+}
+h4{
+    font-weight: 700;
+    font-size: 25px;
+    text-align: center;
+    color:#FF4081;
+    width: 344px;
+    height: 35.71px;
+}
+.card p{
+    text-align: center;
+    width: 293px;
+    height: 73.89px;
+    color: #000000;
+    padding-left: 10px;
+
+}
+ .card a{
+    text-align: center;
+    color:#ffffff;
+    font-weight: 400;
+    font-size: 20px;
+    background: #FF4081;
+    border-radius: 10px;
+    text-decoration: none;
+    width: 233px;
+    height: 62.81px;
+    margin-left: 81px;
+    box-sizing: content-box;
+    
+    
+}
