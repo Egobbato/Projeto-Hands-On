@@ -110,13 +110,16 @@ div .links-anexos {
     .info {
         width: 720px;
     }
+    header nav ul{
+        display: block;
+    }
 
 }
 
 @media only screen and (max-width: 481px) {
 
     .info {
-        width: 360px;
+        width: 705px;
         flex-wrap: wrap;
         flex-direction: column;
         align-items: center;
