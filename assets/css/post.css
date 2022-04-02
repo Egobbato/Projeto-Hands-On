@@ -105,13 +105,98 @@ h4 {
     font-weight: 400;
     font-size: 20px;
     background: #FF4081;
-    border-radius: 10px;
+    border-radius: 38px;
     text-decoration: none;
-    width: 233px; 
+    width: 233px;
     height: 610px;
     margin-left: 81px;
     box-sizing: content-box;
 }
 
+@media only screen and (max-width: 769px) {
+    .principal h1 {
+        width: 416px;
+        margin-left: -20px;
+    }
+
+    .imagem {
+        Width: 354px;
+        Height: 248px;
+        margin-left: 5px;
+    }
+
+    section p {
+        text-align: center;
+        width: 363px;
+    }
+
+    h2 {
+        text-align: center;
+        width: 365px;
+    }
+
+    h3 {
+        margin-top: 1888px;
+        width: 369px;
+    }
+
+    .todos-cursos{
+        flex-wrap: wrap;
+        flex-direction: column;
+        margin-left: 20px;
+    }
+
+    .card a{
+
+   
+
+    margin-bottom: 10px;
+
+}
 
 
+}
+
+@media only screen and (max-width: 481px) {
+    .principal h1 {
+        width: 416px;
+        margin-left: -20px;
+    }
+
+    .imagem {
+        Width: 354px;
+        Height: 248px;
+        margin-left: 5px;
+    }
+
+    section p {
+        text-align: center;
+        width: 363px;
+    }
+
+    h2 {
+        text-align: center;
+        width: 365px;
+    }
+
+    h3 {
+        margin-top: 1888px;
+        width: 369px;
+    }
+
+    .todos-cursos{
+        flex-wrap: wrap;
+        flex-direction: column;
+        margin-left: 20px;
+    }
+
+    .card a{
+
+   
+
+    margin-bottom: 10px;
+
+}
+
+
+}
